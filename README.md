@@ -5,3 +5,4 @@ This project contains Google Colab Notebooks for the UniBO course [B3844](https:
 * [Example Notebook](https://colab.research.google.com/drive/1sn0WoCjkyXYWrlqDqVkBTkOabNrpvJpO?usp=sharing)
 * [Numeric Types](https://colab.research.google.com/drive/1J60qwVDosBBzm68Y0_E9-lQoJEJ1Tcru?usp=sharing)
 * [Strings](https://colab.research.google.com/drive/18rHLPPqsBqmmsU7lSFdOwhCcTu2T_n7j?usp=sharing)
+* [Variables and Assignment](https://colab.research.google.com/drive/130mCdixMCivT0HyGysj9Uu964aTAUMWo?usp=sharing)
