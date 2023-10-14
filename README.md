@@ -25,6 +25,6 @@ You can also find the slides [here](https://github.com/nusco/python-unibo/tree/m
 
 * _TODO_
 
-## Lesson 4=5
+## Lesson 5
 
 * _TODO_
