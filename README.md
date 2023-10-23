@@ -30,7 +30,7 @@ Controlling flow in a program: conditionals and _while_ loops.
 
 ## Lesson 4
 
-Lists and _for_ loops. Also, quick mentions of tuples and of list comprehension.
+Basic collections: lists and _for_ loops.
 
 * [Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
 
