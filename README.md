@@ -27,11 +27,12 @@ Programming building bricks: variables, types, and functions.
 Controlling flow in a program: conditionals and loops.
 
 * [Flow Control](https://colab.research.google.com/drive/1-5YYVnIi3lK0Wmi9pipzvgKgYHSmYYiP?usp=sharing)
-* _TODO_
 
 ## Lesson 4
 
-* _TODO_
+Lists and iterations. Optional: list comprehension.
+
+* [Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
 
 ## Lesson 5
 
