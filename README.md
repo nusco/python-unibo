@@ -36,4 +36,4 @@ Basic collections: lists and _for_ loops.
 
 ## Lesson 5
 
-* _TODO_
+* [Exercises](https://colab.research.google.com/drive/14B7UdUFU6uE3gjw1v-tSH3yivlfjKfLU?usp=sharing)
