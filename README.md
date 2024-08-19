@@ -2,7 +2,7 @@
 
 This project contains the study material for course [B3844](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/498527) at UniBO.
 
-Below, you'll find links to the Colab Notebooks we use during the lessons.
+Below, you'll find links to the Colab Notebooks we use during the lessons. To run them, you'll need a Google account.
 
 You can also find the slides [here](https://github.com/nusco/python-unibo/tree/main/slides).
 
