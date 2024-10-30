@@ -1,6 +1,6 @@
 # B3844 - PYTHON FOR BUSINESS LAB
 
-This project contains the study material for course [B3844](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/498527) at UniBO.
+This project contains the study material for course [B3844](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498527) at UniBO.
 
 Below, you'll find links to the Colab Notebooks we use during the lessons. To run them, you'll need a Google account.
 
