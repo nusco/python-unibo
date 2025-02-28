@@ -24,13 +24,13 @@ Programming building bricks: variables, types, and functions.
 
 ## Lesson 3
 
-Controlling flow in a program: conditionals and _while_ loops.
+Controlling flow in a program: comparisons, conditionals, and logical operators.
 
 * [Flow Control](https://colab.research.google.com/drive/1-5YYVnIi3lK0Wmi9pipzvgKgYHSmYYiP?usp=sharing)
 
 ## Lesson 4
 
-Basic collections: lists and _for_ loops.
+Basic collections: lists and loops.
 
 * [Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
 
