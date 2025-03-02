@@ -30,9 +30,9 @@ Controlling flow in a program: comparisons, conditionals, and logical operators.
 
 ## Lesson 4
 
-Basic collections: lists and loops.
+Collections and iterations: _for_ and _while_ loops, lists.
 
-* [Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
+* [Loops and Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
 
 ## Lesson 5
 
