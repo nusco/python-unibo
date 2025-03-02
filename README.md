@@ -32,7 +32,8 @@ Controlling flow in a program: comparisons, conditionals, and logical operators.
 
 Collections and iterations: _for_ and _while_ loops, lists.
 
-* [Loops and Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W?usp=sharing)
+* [_while_ Loops](https://colab.research.google.com/drive/1LNN93oBBWVWXrqE-q0RkDqevCAh7rrbG#scrollTo=MpEFqmBbFmRi)
+* [Lists](https://colab.research.google.com/drive/1Zpa3zleWmsde7OAcDFifcY7wqGr-nR8W)
 
 ## Lesson 5
 
