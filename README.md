@@ -1,6 +1,6 @@
 # B3844 - PYTHON FOR BUSINESS LAB
 
-This project contains the study material for course [B3844](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/516950) at UniBO. It's currently in line with the 2024/2025 version of the course.
+This project contains the study material for course [B3844](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/516950) at UniBO. It will be kept up to date with the 2025/26 version of the course.
 
 Below, you'll find links to the Colab Notebooks we use during the lessons. To run them, you'll need a Google account.
 
