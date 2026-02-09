@@ -7,10 +7,10 @@ Below, you'll find links to the Colab Notebooks we use during the lessons. To ru
 ## Course Links
 
 - [The page you're looking at](https://github.com/nusco/python-unibo)
-- [Slides (inside this repository)](https://github.com/nusco/python-unibo/tree/main/slides)
+- [Slides](https://github.com/nusco/python-unibo/tree/main/slides)
 - [Course calendar, program, etc.](http://tiny.cc/unibo-python)
-- [Course material on Virtuale](https://virtuale.unibo.it)
-- [Final test subscriptions](https://almaesami.unibo.it)
+- [Course material on UniBO's Virtuale](https://virtuale.unibo.it)
+- [Final test subscriptions on UniBO's Almaesami](https://almaesami.unibo.it)
 
 ## Lesson 1
 
