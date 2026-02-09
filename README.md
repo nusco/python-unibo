@@ -1,10 +1,16 @@
 # B3844 - PYTHON FOR BUSINESS LAB
 
-This project contains the study material for course [B3844](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/516950) at UniBO. It will be kept up to date with the 2025/26 version of the course.
+This project contains the study material for course [B3844](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/516950) at UniBO. As the 2025/26 course progresses, I'll keep this project up to date with the lessons.
 
 Below, you'll find links to the Colab Notebooks we use during the lessons. To run them, you'll need a Google account.
 
-You can also find the slides [here](https://github.com/nusco/python-unibo/tree/main/slides).
+## Course Links
+
+[This repository](https://github.com/nusco/python-unibo)
+[Slides](https://github.com/nusco/python-unibo/tree/main/slides).
+[Calendar, program, etc.](http://tiny.cc/unibo-python)
+[Course material on Virtuale](https://virtuale.unibo.it)
+[Exams](https://almaesami.unibo.it)
 
 ## Lesson 1
 
