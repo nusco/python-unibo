@@ -30,9 +30,11 @@ Programming building bricks: variables, types, and functions.
 
 ## Lesson 3
 
-Controlling flow in a program: comparisons, conditionals, and logical operators.
+Comparisons, conditionals (that is, “if”s), and logical operators.
 
-* [Flow Control](https://colab.research.google.com/drive/1-5YYVnIi3lK0Wmi9pipzvgKgYHSmYYiP?usp=sharing)
+* [Comparisons](https://colab.research.google.com/drive/1-5YYVnIi3lK0Wmi9pipzvgKgYHSmYYiP?usp=sharing)
+* [Conditionals](https://colab.research.google.com/drive/1iIV56jDOSVuhty2qTt9zhAzgCujRJuVc?usp=sharing)
+* [Logical Expressions](https://colab.research.google.com/drive/10i9VtSCfdiQTzXSN_tQVe4RsP5xaZhdH?usp=sharing)
 
 ## Lesson 4
 
